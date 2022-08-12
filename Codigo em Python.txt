@@ -1,0 +1,11 @@
+#variaveis
+#strings
+apelido='batatinha'
+#numero
+idade= 30
+altura= 1,80
+#boleanos
+possui_cnh= True
+
+print(apelido)
+print(idade + 5)
